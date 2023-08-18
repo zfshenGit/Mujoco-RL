@@ -1,0 +1,8 @@
+README.md
+setup.py
+robosuite.egg-info/PKG-INFO
+robosuite.egg-info/SOURCES.txt
+robosuite.egg-info/dependency_links.txt
+robosuite.egg-info/eager_resources.txt
+robosuite.egg-info/requires.txt
+robosuite.egg-info/top_level.txt
